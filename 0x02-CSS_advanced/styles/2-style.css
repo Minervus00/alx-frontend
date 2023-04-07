@@ -1,0 +1,20 @@
+/*
+Based on the previous
+Body and anchor elements -> #161616
+.card-category, .setcion-tagline -> D73953
+*/
+html {
+	scroll-behavior: smooth;
+}
+
+body, a {
+	color: #161616;
+}
+
+.visually-hidden {
+	display: none;
+}
+
+.card-category, .section-tagline {
+	color: #D73953;
+}
