@@ -753,7 +753,3 @@ ul.row {
 .card-work:hover .card-outer {
 	transform: scale(0.95);
 }
-
-.nav .nav-link::before {
-	transition: var(--transition-duration) var(--transition-cubic-bezier);
-}
