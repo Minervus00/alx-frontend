@@ -377,7 +377,7 @@ template {
 	--section-header-padding: 0 0 3rem;
 	--section-body-padding: 0 0 3rem;
 	--section-footer-padding: 3rem 0 0;
-	--section-footer-align: align;
+	--section-footer-align: center;
 	--footer-padding: 5rem 0 1rem;
 	--nav-item-font-family: var(--font-family-title);
 	--nav-item-font-weight: var(--font-weight-bold);
@@ -487,7 +487,7 @@ a:active {
 .nav {
 	margin: 0;
 	padding: 0;
-	list-style: none;
+	list-style-type: none;
 	text-align: center;
 }
 
